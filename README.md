@@ -2,6 +2,7 @@
 
 An autonomous Flappy Bird agent trained using Deep Q-Networks (DQN) and Reinforcement Learning. The agent learns through trial and error, gradually improving its gameplay by maximizing rewards and avoiding obstacles.
 
+>  **Note**: All project resources, including source code, model outputs, visualizations, experimental results, and supporting materials, are contained within the Flappy-Bird-RL-DQN directory. Please refer to this folder for the complete project implementation and documentation.
 ---
 
 ## Demo
